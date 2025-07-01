@@ -26,3 +26,24 @@ In a hotel booking wireframe, placing the **room options** in the center, with *
 **Example:**
 A wireframe might include a **“Book Now” button** with an arrow or annotation indicating that it submits user input and redirects to the payment page.
 
+
+
+Types of Wireframes: 
+Low-fidelity (lo-fi) wireframes are simple, rough sketches or basic digital layouts that focus on structure and layout rather than design detail.
+High-fidelity (hi-fi) wireframes are detailed, polished mockups that closely resemble the final product in terms of design and functionality.
+Usage----- Use low-fidelity wireframes to explore ideas quickly and define structure.
+Use high-fidelity wireframes when you need to test, refine, and present a near-final version of the interface.
+
+Wireframes Used:
+The wireframes shown in the image are high-fidelity wireframes, which are typically used in the later stages of the design process. These wireframes closely resemble the final product in both appearance and functionality.From the image, we can see that the design includes realistic user interface elements such as styled buttons, navigation bars, cards, and icons. The screens also use actual images, branded colors, and refined typography, all of which contribute to a polished and professional look. This level of detail indicates that the wireframes are meant to simulate the final user experience as closely as possible.Each screen represents a specific stage in the user journey, from the splash and login screens to the home page, property details, and reservation checkout process. The inclusion of these interactive and content-rich elements suggests that the wireframes are not just for layout purposes but are meant to demonstrate how users will navigate and interact with the system.
+Overall, these high-fidelity wireframes are designed to be presented to stakeholders, used in usability testing, and handed off to developers as a visual guide. They serve as a nearly complete visual representation of the final product.
+
+
+
+
+
+
+
+
+
+
